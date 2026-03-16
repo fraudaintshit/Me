@@ -22,6 +22,6 @@
 <p align="left"> 
   <a href="https://github.com/vcgkk">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=visualstudio,vscode,stackoverflow,photoshop">
-    <h1 align="left">and other..</h1>
+    <h1 align="left">and others..</h1>
   </a> 
 </p>
